@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 
+import Navbar from "@/components/Navbar";
 import "./globals.css";
 
 
@@ -15,12 +16,14 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" className=" dark">
       
       <body >
-      <h1>Nav Item</h1>
-        
-        {children}</body>
+        <div className=" relative w-full flex items-center justify-center ">
+        <Navbar/>
+        </div>
+       
+      {children}</body>
     </html>
   );
 }

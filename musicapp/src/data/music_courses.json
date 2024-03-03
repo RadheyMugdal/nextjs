@@ -1,0 +1,83 @@
+{"courses" :[
+    {
+      "id": 1,
+      "title": "Introduction to Machine Learning",
+      "slug": "introduction-to-machine-learning",
+      "description": "This course will teach you the fundamentals of machine learning, including supervised learning, unsupervised learning, and reinforcement learning.",
+      "price": 49.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://unsplash.com/s/photos/machine-learning"
+    },
+    {
+      "id": 2,
+      "title": "Web Development with Python and Django",
+      "slug": "web-development-with-python-and-django",
+      "description": "Learn how to build modern web applications using Python and the Django framework.",
+      "price": 199.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "https://m.youtube.com/watch?v=1EeqQO9KY6I"
+    },
+    {
+      "id": 3,
+      "title": "The Complete Guide to Digital Marketing",
+      "slug": "the-complete-guide-to-digital-marketing",
+      "description": "Master the art of digital marketing in this comprehensive course covering SEO, social media marketing, email marketing, and more.",
+      "price": 99.99,
+      "instructor": "David Lee",
+      "isFeatured": true,
+      "image": "https://www.shutterstock.com/search/digital-marketing-course"
+    },
+    {
+      "id": 4,
+      "title": "Data Analysis with Python and Pandas",
+      "slug": "data-analysis-with-python-and-pandas",
+      "description": "Learn how to clean, manipulate, and analyze data using Python and the Pandas library.",
+      "price": 79.99,
+      "instructor": "Sarah Jones",
+      "isFeatured": false,
+      "image": "https://unsplash.com/s/photos/data-analysis"
+    },
+    {
+      "id": 5,
+      "title": "The Art of Negotiation",
+      "slug": "the-art-of-negotiation",
+      "description": "Develop your negotiation skills to get what you want in business and life.",
+      "price": 49.99,
+      "instructor": "Michael Chen",
+      "isFeatured": true,
+      "image": "https://unsplash.com/s/photos/negotiation"
+    },
+    {
+      "id": 6,
+      "title": "Public Speaking for Beginners",
+      "slug": "public-speaking-for-beginners",
+      "description": "Learn how to overcome your fear of public speaking and deliver confident presentations.",
+      "price": 39.99,
+      "instructor": "Emily Garcia",
+      "isFeatured": false,
+      "image": "https://unsplash.com/s/photos/public-speaking"
+    },
+    {
+      "id": 7,
+      "title": "The Power of Personal Branding",
+      "slug": "the-power-of-personal-branding",
+      "description": "Learn how to build a strong personal brand to stand out from the crowd and achieve your career goals.",
+      "price": 69.99,
+      "instructor": "Alan Williams",
+      "isFeatured": true,
+      "image": "https://unsplash.com/s/photos/personal-branding"
+    },
+    {
+      "id": 8,
+      "title": "Financial Literacy for Everyone",
+      "slug": "financial-literacy-for-everyone",
+      "description": "Gain the knowledge and skills you need to manage your finances effectively.",
+      "price": 29.99,
+      "instructor": "Amanda Brown",
+      "isFeatured": false,
+      "image": "https://unsplash.com/s/photos/financial-literacy"
+    }
+  ]}
+  
