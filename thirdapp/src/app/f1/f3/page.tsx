@@ -1,8 +1,8 @@
 
 const page = () => {
   return (
-    <div>
-      Login Page
+    <div className=" w-screen h-screen bg-green-800">
+      F3
     </div>
   )
 }

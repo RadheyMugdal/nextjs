@@ -1,8 +1,12 @@
 
+
 const page = () => {
+  console.log("about page");
+  
+    
   return (
     <div>
-      Login Page
+      About
     </div>
   )
 }

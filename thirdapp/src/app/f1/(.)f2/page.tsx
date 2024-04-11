@@ -2,7 +2,7 @@
 const page = () => {
   return (
     <div>
-      Login Page
+      Intercepted F2 Page
     </div>
   )
 }

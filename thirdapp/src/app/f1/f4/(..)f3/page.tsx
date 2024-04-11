@@ -2,7 +2,7 @@
 const page = () => {
   return (
     <div>
-      Register
+      Intercepted F3
     </div>
   )
 }

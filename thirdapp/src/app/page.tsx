@@ -1,8 +1,10 @@
 
 const page = () => {
+  
   return (
     <div>
-      Login Page
+      Home Page
+      
     </div>
   )
 }

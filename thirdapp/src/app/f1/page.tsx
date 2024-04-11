@@ -1,8 +1,10 @@
+import Link from "next/link"
 
 const page = () => {
   return (
     <div>
-      Login Page
+      F1 page
+      <Link href="/f1/f2">F2</Link>
     </div>
   )
 }

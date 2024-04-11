@@ -2,7 +2,7 @@
 const page = () => {
   return (
     <div>
-      Login Page
+      <h1>Profile</h1>
     </div>
   )
 }

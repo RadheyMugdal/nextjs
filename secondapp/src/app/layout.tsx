@@ -11,13 +11,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <header style={{backgroundColor:"green" ,padding:'1rem'}}>
+        {/* <header style={{backgroundColor:"green" ,padding:'1rem'}}>
           <p className=" bg-green-500"> Header</p>
-        </header>
+        </header> */}
         {children}
-        <footer style={{backgroundColor:"green" ,padding:'1rem'}}>
+        {/* <footer style={{backgroundColor:"green" ,padding:'1rem'}}>
           <p>Footer</p>
-        </footer>
+        </footer> */}
         </body>
     </html>
   )

@@ -1,8 +1,9 @@
 
 const page = () => {
+   
   return (
     <div>
-      Login Page
+      Login
     </div>
   )
 }

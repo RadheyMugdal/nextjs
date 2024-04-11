@@ -1,8 +1,8 @@
 
 const page = () => {
   return (
-    <div>
-      Login Page
+    <div className=''>
+      F5
     </div>
   )
 }
